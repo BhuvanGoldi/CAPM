@@ -1,0 +1,21 @@
+### metadata
+
+http://localhost:4004/odata/v4/Catalog/$metadata
+
+###boost
+POST http://localhost:4004/odata/v4/Catalog/POs/74867AD200E41EDBA5D8B0C98DC34052/boost
+Content-Type: application/json
+
+{}
+
+###get POs
+GET http://localhost:4004/odata/v4/Catalog/POs
+
+###get Myservice
+GET http://localhost:4004/odata/v4/MyService/employeeSrv
+
+###get
+GET http://localhost:4004/odata/v4/Catalog/POs/74867AD200E41EDBA5D8B0C98DC2C052
+
+###get largest
+GET http://localhost:4004/odata/v4/Catalog/largestOrder()

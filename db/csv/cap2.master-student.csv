@@ -1,0 +1,8 @@
+id,firstname,lastname,age,class_id,houseNo,landmark,city,country
+1,John,Doe,30,1,101 ,Main St,Springfield,USA
+2,Jane,Smith,25,2,102, Elm St,Springfield,USA
+3,Emily,Jones,22,3,45,Main St,Springfield,USA
+4,Michael,Johnson,28,4,123,Main St,Springfield,USA
+5,Chris,Brown,35,4, 1234,Park Ave,Springfield,USA
+6,Anna,White,27,5,234,Springfield,USA,USA
+7,David,Wilson,33,6,32,Riverdale Ave,USA,USA
