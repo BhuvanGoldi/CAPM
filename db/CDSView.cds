@@ -96,7 +96,7 @@ context CDSViews {
             To_Items.CurrencyCode as![CurrencyCode],
             Description,
             Price
-        } group by ProductId, Country, To_Items.CurrencyCode;
+        } group by ProductId, Country, To_Items.CurrencyCode,Description,Price;
     
 }
 
